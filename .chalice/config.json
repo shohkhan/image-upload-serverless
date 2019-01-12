@@ -1,0 +1,16 @@
+{
+  "version": "2.0",
+  "app_name": "upload-image-serverless",
+  "stages": {
+    "dev": {
+      "api_gateway_stage": "api",
+      "environment_variables": {
+        "region": "us-west-2",
+        "bucket": "aws-ml-image-test-shoaib",
+        "access_key_id": "QWEQWEQWEQWEQWe",
+        "secret_access_key": "sadfhsahfajksdfhalskdhfkas",
+        "default_timeout" : "60"
+      }
+    }
+  }
+}
