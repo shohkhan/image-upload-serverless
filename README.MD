@@ -1,4 +1,4 @@
-# Image Uploader Service - Serverless #
+# Image Uploader Service - AWS Serverless #
 ### Sample AWS serverless program to upload and download images using presigned urls ###
 
 #### What is this repository for? ####
